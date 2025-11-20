@@ -1,0 +1,7 @@
+{
+  "name": "AI Guitar Guru",
+  "description": "An AI-powered application to generate custom guitar tutorials for any song. Features adjustable difficulty levels (easy, medium, hard), style choices (finger picking or chords), and a built-in interactive guitar tuner.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
